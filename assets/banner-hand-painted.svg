@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" fill="none">
+  <defs>
+    <linearGradient id="g6" x1="0" y1="0" x2="400" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1c1917"/>
+      <stop offset="55%" stop-color="#44403c"/>
+      <stop offset="100%" stop-color="#0c0a09"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="220" fill="url(#g6)"/>
+  <!-- Painterly Brush Strokes -->
+  <path d="M50 155c45-24 95-30 150-12 52 17 104 12 150-16" stroke="#f59e0b" stroke-width="14" stroke-linecap="round" stroke-opacity="0.28"/>
+  <path d="M72 72c64-18 140-10 245 14" stroke="#4fd6bc" stroke-width="10" stroke-linecap="round" stroke-opacity="0.28"/>
+  <!-- Charm Medallion -->
+  <circle cx="200" cy="102" r="46" fill="#292524" stroke="#f59e0b" stroke-width="3.5"/>
+  <circle cx="200" cy="96" r="19" fill="#fed7aa"/>
+  <rect x="186" y="90" width="12" height="9" rx="2" stroke="#1c1917" stroke-width="2.5"/>
+  <rect x="202" y="90" width="12" height="9" rx="2" stroke="#1c1917" stroke-width="2.5"/>
+  <path d="M178 134c4-14 12-20 22-20s18 6 22 20" fill="#e7e5e4"/>
+  <text x="200" y="200" text-anchor="middle" font-family="Lexend, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#fde68a" letter-spacing="1.2">HAND-PAINTED DWIGHT CHARM</text>
+</svg>

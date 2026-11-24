@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" fill="none">
+  <defs>
+    <linearGradient id="g4" x1="0" y1="0" x2="400" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#132a2e"/>
+      <stop offset="50%" stop-color="#2e1065"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="220" fill="url(#g4)"/>
+  <!-- Banners & Badge -->
+  <rect x="74" y="48" width="110" height="54" rx="10" fill="#1e293b" stroke="#4fd6bc" stroke-width="2.5"/>
+  <rect x="216" y="48" width="110" height="54" rx="10" fill="#1e293b" stroke="#a855f7" stroke-width="2.5"/>
+  <path d="M98 75h62M240 75h62" stroke="#e2e8f0" stroke-width="4" stroke-linecap="round" stroke-opacity="0.7"/>
+  <circle cx="200" cy="136" r="32" fill="#0f172a" stroke="#4fd6bc" stroke-width="3"/>
+  <path d="M200 116l6 14 15 2-11 10 3 15-13-7-13 7 3-15-11-10 15-2 6-14Z" fill="#4fd6bc"/>
+  <text x="200" y="200" text-anchor="middle" font-family="Lexend, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#99f6e4" letter-spacing="1.2">KARMA BANNERS &amp; BADGE</text>
+</svg>
