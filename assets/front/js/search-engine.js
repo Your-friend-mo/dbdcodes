@@ -127,6 +127,106 @@
       page: "coupon/29.html",
       image: "public/assets/uploads/coupon_banners/coupon_29_6a6a2a6a84d41.png",
       keywords: ["eyes", "darkness", "badge", "badges", "grasping", "hallway", "banner", "banners", "profile", "bundle", "code", "codes"]
+    }    ,
+    {
+      id: 30,
+      title: "10,000 Free Robux Code",
+      category: "Currency",
+      reward: "10,000 Robux",
+      brand: "Roblox",
+      page: "coupon/30.html",
+      image: "public/assets/uploads/coupon_banners/coupon_30_robux.jpg",
+      keywords: ["roblox", "robux", "free", "10000", "10,000", "rbx", "currency", "gift", "card", "code", "codes", "promo"]
+    },
+    {
+      id: 31,
+      title: "Redeem Free Robux Gift Card",
+      category: "Gift Card",
+      reward: "$50 Robux Gift Card",
+      brand: "Roblox",
+      page: "coupon/31.html",
+      image: "public/assets/uploads/coupon_banners/coupon_31_giftcard.jpg",
+      keywords: ["roblox", "gift", "card", "redeem", "free", "robux", "voucher", "50", "wallet", "code", "codes"]
+    },
+    {
+      id: 32,
+      title: "13,500 Free V-Bucks Code",
+      category: "Currency",
+      reward: "13,500 V-Bucks",
+      brand: "Fortnite",
+      page: "coupon/32.html",
+      image: "public/assets/uploads/coupon_banners/coupon_32_vbucks.jpg",
+      keywords: ["fortnite", "vbucks", "v-bucks", "13500", "13,500", "epic", "battle", "pass", "code", "codes", "currency"]
+    },
+    {
+      id: 33,
+      title: "Wildcat Skin Bundle Code",
+      category: "Skin Bundle",
+      reward: "Wildcat Outfit + 2000 V-Bucks",
+      brand: "Fortnite",
+      page: "coupon/33.html",
+      image: "public/assets/uploads/coupon_banners/coupon_33_wildcat.jpg",
+      keywords: ["fortnite", "wildcat", "skin", "bundle", "outfit", "rare", "exclusive", "nintendo", "code", "codes"]
+    },
+    {
+      id: 34,
+      title: "6,480 Genesis Crystals Code",
+      category: "Currency",
+      reward: "6,480 Genesis Crystals",
+      brand: "Genshin Impact",
+      page: "coupon/34.html",
+      image: "public/assets/uploads/coupon_banners/coupon_34_crystals.jpg",
+      keywords: ["genshin", "impact", "genesis", "crystals", "6480", "6,480", "primogems", "hoyoverse", "code", "codes"]
+    },
+    {
+      id: 35,
+      title: "8,000 Free Primogems Code",
+      category: "Currency",
+      reward: "8,000 Primogems (50 Wishes)",
+      brand: "Genshin Impact",
+      page: "coupon/35.html",
+      image: "public/assets/uploads/coupon_banners/coupon_35_primogems.jpg",
+      keywords: ["genshin", "impact", "primogems", "primo", "gems", "8000", "8,000", "wishes", "fates", "code", "codes"]
+    },
+    {
+      id: 36,
+      title: "2,000 Free Gems Code",
+      category: "Currency",
+      reward: "2,000 Gems",
+      brand: "Brawl Stars",
+      page: "coupon/36.html",
+      image: "public/assets/uploads/coupon_banners/coupon_36_gems.jpg",
+      keywords: ["brawl", "stars", "gems", "2000", "2,000", "supercell", "free", "brawler", "code", "codes"]
+    },
+    {
+      id: 37,
+      title: "Brawl Pass Plus Redeem Code",
+      category: "Battle Pass",
+      reward: "Brawl Pass Plus Activation",
+      brand: "Brawl Stars",
+      page: "coupon/37.html",
+      image: "public/assets/uploads/coupon_banners/coupon_37_pass.jpg",
+      keywords: ["brawl", "stars", "brawl", "pass", "plus", "season", "activation", "voucher", "code", "codes"]
+    },
+    {
+      id: 38,
+      title: "5,600 Free Fire Diamonds Code",
+      category: "Currency",
+      reward: "5,600 Diamonds",
+      brand: "Free Fire",
+      page: "coupon/38.html",
+      image: "public/assets/uploads/coupon_banners/coupon_38_diamonds.jpg",
+      keywords: ["free", "fire", "diamonds", "diamond", "5600", "5,600", "garena", "topup", "code", "codes"]
+    },
+    {
+      id: 39,
+      title: "Free Fire Elite Pass Code",
+      category: "Season Pass",
+      reward: "Elite Pass Season Bundle",
+      brand: "Free Fire",
+      page: "coupon/39.html",
+      image: "public/assets/uploads/coupon_banners/coupon_39_elitepass.jpg",
+      keywords: ["free", "fire", "elite", "pass", "season", "bundle", "garena", "voucher", "code", "codes"]
     }
   ];
 
@@ -138,6 +238,46 @@
       coupon_count: 8,
       page: "brand.html",
       keywords: ["dead", "by", "daylight", "dbd", "behaviour", "game", "codes", "promo", "coupons"]
+    },
+    {
+      id: 30,
+      brand_name: "Roblox",
+      brand_logo: "public/assets/uploads/brand_logos/brand_30_roblox.jpg",
+      coupon_count: 2,
+      page: "brand/roblox.html",
+      keywords: ["roblox", "robux", "rbx", "metaverse", "game", "codes", "promo", "coupons"]
+    },
+    {
+      id: 31,
+      brand_name: "Fortnite",
+      brand_logo: "public/assets/uploads/brand_logos/brand_31_fortnite.jpg",
+      coupon_count: 2,
+      page: "brand/fortnite.html",
+      keywords: ["fortnite", "vbucks", "v-bucks", "epic", "battle", "royale", "codes", "promo", "coupons"]
+    },
+    {
+      id: 32,
+      brand_name: "Genshin Impact",
+      brand_logo: "public/assets/uploads/brand_logos/brand_32_genshin.jpg",
+      coupon_count: 2,
+      page: "brand/genshin-impact.html",
+      keywords: ["genshin", "impact", "primogems", "genesis", "crystals", "hoyoverse", "codes", "promo", "coupons"]
+    },
+    {
+      id: 33,
+      brand_name: "Brawl Stars",
+      brand_logo: "public/assets/uploads/brand_logos/brand_33_brawlstars.jpg",
+      coupon_count: 2,
+      page: "brand/brawl-stars.html",
+      keywords: ["brawl", "stars", "gems", "supercell", "pass", "plus", "codes", "promo", "coupons"]
+    },
+    {
+      id: 34,
+      brand_name: "Free Fire",
+      brand_logo: "public/assets/uploads/brand_logos/brand_34_freefire.jpg",
+      coupon_count: 2,
+      page: "brand/free-fire.html",
+      keywords: ["free", "fire", "diamonds", "garena", "elite", "pass", "codes", "promo", "coupons"]
     }
   ];
 

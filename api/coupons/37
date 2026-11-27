@@ -1,0 +1,22 @@
+{
+  "id": 37,
+  "brand_id": 33,
+  "coupon_display_order": 1017,
+  "url_type": "redirect",
+  "coupon_locker_url": "javascript:void(0)",
+  "coupon_featured": 1,
+  "coupon_banner": "assets/uploads/coupon_banners/coupon_37_pass.jpg",
+  "coupon_title": "Brawl Pass Plus Redeem Code",
+  "coupon_badge": "Exclusive",
+  "coupon_short_incent": "PASS",
+  "coupon_short_description": "Unlock current season Brawl Pass Plus Redeem Code with instant tier rewards.",
+  "coupon_description": "&lt;p&gt;Unlock Brawl Pass Plus Redeem Code for Brawl Stars. Includes exclusive seasonal brawler skin, chroma credits, and title rewards.&lt;/p&gt;",
+  "coupon_validity": "",
+  "coupon_rating": 4.89,
+  "coupon_rating_count": 7650,
+  "coupon_code": "BS-PASS-PLUS",
+  "created_at": "2026-11-20 12:00:00",
+  "updated_at": "2026-11-27 08:00:00",
+  "brand_name": "Brawl Stars",
+  "brand_logo": "assets/uploads/brand_logos/brand_33_brawlstars.jpg"
+}

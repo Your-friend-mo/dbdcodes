@@ -1,0 +1,22 @@
+{
+  "id": 35,
+  "brand_id": 32,
+  "coupon_display_order": 1015,
+  "url_type": "redirect",
+  "coupon_locker_url": "javascript:void(0)",
+  "coupon_featured": 1,
+  "coupon_banner": "assets/uploads/coupon_banners/coupon_35_primogems.jpg",
+  "coupon_title": "8,000 Free Primogems Code",
+  "coupon_badge": "Popular",
+  "coupon_short_incent": "HIGH VALUE",
+  "coupon_short_description": "Unlock 8,000 Free Primogems Code for 5-star character banners.",
+  "coupon_description": "&lt;p&gt;Claim 8,000 Free Primogems Code for Genshin Impact. Grants 50 Intertwined Fates for active event character and weapon wishes.&lt;/p&gt;",
+  "coupon_validity": "",
+  "coupon_rating": 4.97,
+  "coupon_rating_count": 15300,
+  "coupon_code": "GEN-PRIMO-8000",
+  "created_at": "2026-11-20 12:00:00",
+  "updated_at": "2026-11-27 08:00:00",
+  "brand_name": "Genshin Impact",
+  "brand_logo": "assets/uploads/brand_logos/brand_32_genshin.jpg"
+}

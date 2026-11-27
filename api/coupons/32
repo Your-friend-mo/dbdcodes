@@ -1,0 +1,22 @@
+{
+  "id": 32,
+  "brand_id": 31,
+  "coupon_display_order": 1012,
+  "url_type": "redirect",
+  "coupon_locker_url": "javascript:void(0)",
+  "coupon_featured": 1,
+  "coupon_banner": "assets/uploads/coupon_banners/coupon_32_vbucks.jpg",
+  "coupon_title": "13,500 Free V-Bucks Code",
+  "coupon_badge": "Hot",
+  "coupon_short_incent": "POPULAR",
+  "coupon_short_description": "Claim 13,500 Free V-Bucks Code on Epic Games and Fortnite.",
+  "coupon_description": "&lt;p&gt;Redeem 13,500 Free V-Bucks Code in Fortnite Battle Royale. Usable for Battle Pass tiers, Item Shop skins, emotes, and bundles.&lt;/p&gt;",
+  "coupon_validity": "",
+  "coupon_rating": 4.96,
+  "coupon_rating_count": 18450,
+  "coupon_code": "FN-VB13500-7731",
+  "created_at": "2026-11-20 12:00:00",
+  "updated_at": "2026-11-27 08:00:00",
+  "brand_name": "Fortnite",
+  "brand_logo": "assets/uploads/brand_logos/brand_31_fortnite.jpg"
+}

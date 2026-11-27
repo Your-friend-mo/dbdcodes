@@ -1,0 +1,22 @@
+{
+  "id": 36,
+  "brand_id": 33,
+  "coupon_display_order": 1016,
+  "url_type": "redirect",
+  "coupon_locker_url": "javascript:void(0)",
+  "coupon_featured": 1,
+  "coupon_banner": "assets/uploads/coupon_banners/coupon_36_gems.jpg",
+  "coupon_title": "2,000 Free Gems Code",
+  "coupon_badge": "Hot",
+  "coupon_short_incent": "NEW",
+  "coupon_short_description": "Redeem 2,000 Free Gems Code directly into Brawl Stars Supercell ID.",
+  "coupon_description": "&lt;p&gt;Redeem 2,000 Free Gems Code in Brawl Stars. Purchase skins, hypercharges, and brawl boxes with verified Supercell ID code.&lt;/p&gt;",
+  "coupon_validity": "",
+  "coupon_rating": 4.91,
+  "coupon_rating_count": 9840,
+  "coupon_code": "BS-GEMS-2000",
+  "created_at": "2026-11-20 12:00:00",
+  "updated_at": "2026-11-27 08:00:00",
+  "brand_name": "Brawl Stars",
+  "brand_logo": "assets/uploads/brand_logos/brand_33_brawlstars.jpg"
+}

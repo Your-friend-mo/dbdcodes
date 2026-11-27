@@ -1,0 +1,22 @@
+{
+  "id": 33,
+  "brand_id": 31,
+  "coupon_display_order": 1013,
+  "url_type": "redirect",
+  "coupon_locker_url": "javascript:void(0)",
+  "coupon_featured": 1,
+  "coupon_banner": "assets/uploads/coupon_banners/coupon_33_wildcat.jpg",
+  "coupon_title": "Wildcat Skin Bundle Code",
+  "coupon_badge": "Exclusive",
+  "coupon_short_incent": "RARE",
+  "coupon_short_description": "Unlock the exclusive Wildcat Skin Bundle Code and cosmetics.",
+  "coupon_description": "&lt;p&gt;Redeem the rare Wildcat Skin Bundle Code in Fortnite. Includes Wildcat Outfit, Sleek Strike Back Bling, and 2,000 V-Bucks bonus.&lt;/p&gt;",
+  "coupon_validity": "",
+  "coupon_rating": 4.88,
+  "coupon_rating_count": 8920,
+  "coupon_code": "FN-WILD-4491",
+  "created_at": "2026-11-20 12:00:00",
+  "updated_at": "2026-11-27 08:00:00",
+  "brand_name": "Fortnite",
+  "brand_logo": "assets/uploads/brand_logos/brand_31_fortnite.jpg"
+}
